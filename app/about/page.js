@@ -26,9 +26,10 @@ export default function About() {
 
           <section className="space-y-6">
             <h2 className="text-3xl font-semibold text-amber-400">Our Mission</h2>
-            <p className="text-lg text-gray-300">
-              Our mission is to make finding high-quality, royalty-free images simple and accessible for everyone. Whether you're looking for inspiration, stock photos, or just browsing, our app allows you to search thousands of images quickly and easily.
-            </p>
+          <p className="text-lg text-gray-300">
+  If you have any questions, feedback, or just want to say hi, feel free to reach out to us. We&apos;d love to hear from you!
+</p>
+
           </section>
 
           <section className="space-y-6">
